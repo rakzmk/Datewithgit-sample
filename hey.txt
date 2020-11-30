@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-hello this is rakesh
-=======
 hi friends
->>>>>>> feature
+
+
+try
